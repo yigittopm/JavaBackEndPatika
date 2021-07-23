@@ -1,4 +1,4 @@
-package Java101.KosulluIfadelerVeKodBloklari.KDV;
+package Java101.TemelKavramlarVeDegiskenler.KDV;
 
 import java.util.Scanner;
 

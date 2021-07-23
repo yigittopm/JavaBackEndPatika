@@ -1,4 +1,4 @@
-package Java101.KosulluIfadelerVeKodBloklari.Taximeter;
+package Java101.TemelKavramlarVeDegiskenler.Taximeter;
 
 import java.util.Scanner;
 

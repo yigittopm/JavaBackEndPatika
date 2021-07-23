@@ -1,4 +1,4 @@
-package Java101.KosulluIfadelerVeKodBloklari.BodyMassIndex;
+package Java101.TemelKavramlarVeDegiskenler.BodyMassIndex;
 
 import java.util.Locale;
 import java.util.Scanner;

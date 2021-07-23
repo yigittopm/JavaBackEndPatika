@@ -1,4 +1,4 @@
-package Java101.KosulluIfadelerVeKodBloklari.Hypotenuse;
+package Java101.TemelKavramlarVeDegiskenler.Hypotenuse;
 
 import java.util.Scanner;
 

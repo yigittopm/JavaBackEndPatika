@@ -1,4 +1,4 @@
-package Java101.KosulluIfadelerVeKodBloklari.TriangleArea;
+package Java101.TemelKavramlarVeDegiskenler.TriangleArea;
 
 import java.util.Scanner;
 

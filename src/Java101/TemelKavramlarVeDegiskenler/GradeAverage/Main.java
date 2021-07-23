@@ -1,4 +1,4 @@
-package Java101.KosulluIfadelerVeKodBloklari.GradeAverage;
+package Java101.TemelKavramlarVeDegiskenler.GradeAverage;
 
 import java.util.Scanner;
 

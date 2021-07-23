@@ -1,4 +1,4 @@
-package Java101.KosulluIfadelerVeKodBloklari.SliceCircleArea;
+package Java101.TemelKavramlarVeDegiskenler.SliceCircleArea;
 
 import java.util.Scanner;
 

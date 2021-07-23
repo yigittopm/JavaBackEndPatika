@@ -1,4 +1,4 @@
-package Java101.KosulluIfadelerVeKodBloklari.Greengrocer;
+package Java101.TemelKavramlarVeDegiskenler.Greengrocer;
 
 import java.util.Scanner;
 
